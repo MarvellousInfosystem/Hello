@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-int main()
+int main()    // Entry poinnt file
 {
-  prinntf("Hello");
+  prinntf("Hello Marvellous");
   return 0;
 }
